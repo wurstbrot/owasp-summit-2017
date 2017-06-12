@@ -8,7 +8,7 @@ technology    :
 status        : done
 when-day      : Thu
 when-time     : PM-1
-location      : 
+location      : Room-1
 room-layout   : 
 organizers    : Timo Pagel
 participants  : Johan Peeters,Francois Raynaud
